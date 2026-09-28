@@ -21,7 +21,7 @@ import xml.etree.ElementTree as ET
 import pandas as pd
 import requests
 
-OUT = os.path.dirname(os.path.abspath(__file__))
+OUT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "raw")
 START_YM, END_YM = "201901", "202608"
 
 

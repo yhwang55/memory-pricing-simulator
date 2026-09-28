@@ -29,3 +29,6 @@ new_capacity_timing,"2H27 ramp, 2028 output",,2026,TrendForce 2026-07-30,medium,
 smartphone_production_2026,-2,% YoY,2026,TrendForce 2025-11-17,low,IDC later forecast -16.7%; use IDC
 notebook_production_2026,-2.4,% YoY,2026,TrendForce 2025-11-17,low,forecast made before 2026 price surge
 dram_share_of_smartphone_bom,12.5,%,2025,TrendForce 2025-11-17,medium,stated as 10-15%; IDC says 65%+ at low end in 2026
+hbm_capacity_per_gpu_rubin,288,GB per GPU (max),2026,NVIDIA Technical Blog (Rubin platform),high,HBM4; Rubin Ultra configuration under review per TrendForce 2026-08-04
+share_revenue_cxmt_2q26,10,% of DRAM revenue,2Q26,Counterpoint via Seoul Economic Daily 2026-09-03,medium,"TrendForce-based figure is 9.5%; 1Q26 8%, 2Q25 4%"
+share_revenue_skhynix_2q26_counterpoint,25,% of DRAM revenue,2Q26,Counterpoint via Seoul Economic Daily 2026-09-03,medium,Counterpoint 2026-08-04 release said 26%; TrendForce 24.9%

@@ -7,3 +7,5 @@ hbm_share_of_dram_bits_2027,13,%,2026-06-02,low,TrendForce 2026-06-02,projection
 hbm3e_price_premium_vs_server_ddr5_2025,4.5,x (per bit),2025-12-18,medium,TrendForce 2025-12-18,stated as 4-5x
 hbm3e_price_premium_vs_server_ddr5_end2026,1.5,x (per bit),2025-12-18,low,TrendForce 2025-12-18,stated as 1-2x; conventional DRAM prices caught up
 hbm_pricing_mechanism,annual contracts,,2026-06-02,high,TrendForce 2026-06-02,HBM price cannot react within the year; DDR5 64GB RDIMM per-wafer revenue passed HBM in 1Q26
+hbm_share_of_dram_wafers_2025,18,%,2026-06-02,medium,TrendForce 2026-06-02,approximately 18% (year-end)
+hbm_share_of_dram_bits_2025,8,%,2026-06-02,medium,TrendForce 2026-06-02,approximately 8%; implies ~2.5x wafer penalty in 2025

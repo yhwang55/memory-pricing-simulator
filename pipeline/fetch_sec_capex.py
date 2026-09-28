@@ -16,6 +16,9 @@ import time
 
 import pandas as pd
 import requests
+from pathlib import Path
+
+os.chdir(Path(__file__).resolve().parents[1] / "data" / "raw")  # 결과는 data/raw에 저장
 
 UA = os.getenv("SEC_UA")
 if not UA:

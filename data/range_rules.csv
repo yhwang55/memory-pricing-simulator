@@ -1,0 +1,18 @@
+expression,interval_pct,basis
+low single-digit,1~3,설계 v3 팀 규칙
+mid single-digit,4~6,설계 v3 팀 규칙
+high single-digit,7~9,설계 v3 팀 규칙
+low 60s,60~63,설계 v3 팀 규칙 (다른 십의 자리도 같은 방식)
+mid 60s,64~66,low 60s 규칙의 확장
+high 60s,67~69,low 60s 규칙의 확장
+approximately / around / about / roughly X,X-2~X+2,설계 v3 팀 규칙
+low teens / low double-digit,10~13,low 60s 규칙의 확장
+mid teens,14~16,low 60s 규칙의 확장
+high teens,17~19,low 60s 규칙의 확장
+over / more than / slightly over X,X~X+3,데이터 담당 제안
+in the X% range,X-2~X+2,데이터 담당 제안 (approximately와 같게)
+flat / flattish,-1~1,데이터 담당 제안
+slightly up / up slightly,0~2,데이터 담당 제안
+slight decrease / declined slightly,-2~0,데이터 담당 제안
+exact X% (rose 20%),X~X,숫자 그대로
+declined / decreased / down / lower,부호를 음수로,방향 표현

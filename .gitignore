@@ -3,3 +3,4 @@ __pycache__/
 .Rhistory
 .env
 *.zip
+.ipynb_checkpoints/

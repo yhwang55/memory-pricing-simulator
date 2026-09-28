@@ -1,0 +1,23 @@
+quarter,product,qoq_lo_pct,qoq_hi_pct,kind,published,source,quote
+1Q23,conventional_dram,-18.0,-13.0,forecast,2023-01-09,TrendForce 2023-01-09,QoQ Decline in DRAM ASP Will Moderate to Around 13~18% for 1Q23
+2Q23,conventional_dram,-15.0,-10.0,forecast,2023-03-28,TrendForce 2023-03-28,Decline in DRAM ASP Narrows to 10~15% in 2Q23
+3Q23,conventional_dram,-5.0,0.0,forecast,2023-07-05,TrendForce 2023-07-05,DRAM ASP Decline Narrows to 0~5% for 3Q23
+4Q23,conventional_dram,13.0,18.0,forecast,2023-12-04,TrendForce 2023-12-04,Suppliers anticipate ... increases of 13-18% in Q4 contract prices
+2Q24,conventional_dram,13.0,18.0,actual,2024-08-15,TrendForce 2024-08-15,Contract prices rose 13%-18% during Q2
+3Q24,conventional_dram,8.0,13.0,actual,2024-11-26,TrendForce 2024-11-26,Contract prices increased 8-13% QoQ
+4Q25,conventional_dram,8.0,13.0,forecast,2025-09-24,TrendForce 2025-09-24,8-13% QoQ in 4Q25 (13-18% including HBM)
+4Q25,conventional_dram,45.0,50.0,forecast,2025-11-26,TrendForce 2025-11-26,conventional DRAM contract prices will rise by 45-50% QoQ
+4Q25,conventional_dram,45.0,50.0,actual,2026-02-26,TrendForce 2026-02-26,Conventional DRAM contract prices rose 45-50% QoQ
+4Q25,dram_incl_hbm,50.0,55.0,actual,2026-02-26,TrendForce 2026-02-26,blended contract prices for conventional DRAM and HBM increased 50-55%
+1Q26,conventional_dram,55.0,60.0,forecast,2026-01-05,TrendForce 2026-01-05,overall 55-60% conventional DRAM increase
+1Q26,ddr5,60.0,,forecast,2026-01-05,TrendForce 2026-01-05,More than 60% QoQ increase
+1Q26,conventional_dram,90.0,95.0,forecast,2026-02-02,TrendForce 2026-02-02,+90-95% QoQ
+1Q26,ddr5,88.0,92.0,forecast,2026-02-02,TrendForce 2026-02-02,around 90% QoQ in 1Q26
+1Q26,lpddr,88.0,92.0,forecast,2026-02-02,TrendForce 2026-02-02,around 90% QoQ in 1Q26
+1Q26,pc_dram,100.0,,forecast,2026-02-02,TrendForce 2026-02-02,over 100% QoQ
+1Q26,conventional_dram,93.0,98.0,actual,2026-06-01,TrendForce 2026-06-01,increased by approximately 93% to 98% QoQ
+2Q26,conventional_dram,58.0,63.0,forecast,2026-03-31,TrendForce 2026-03-31,projected to rise by 58-63% QoQ
+2Q26,conventional_dram,58.0,63.0,forecast,2026-06-01,TrendForce 2026-06-01,rise another 58-63% QoQ in 2Q26
+3Q26,conventional_dram,13.0,18.0,forecast,2026-07-03,TrendForce 2026-07-03,rise 13-18% QoQ in 3Q26
+3Q26,ddr5,13.0,18.0,forecast,2026-07-09,TrendForce 2026-07-09,server DRAM contract prices will rise by 13-18% QoQ in 3Q26
+3Q26,conventional_dram,13.0,18.0,forecast,2026-09-07,TrendForce 2026-09-07,projected to moderate to 13-18% QoQ
