@@ -1,0 +1,24 @@
+series,period,period_end,value,unit,yoy_pct,qoq_pct,source,note
+NVIDIA data center revenue,FQ1 FY24,2023-04-30,4.3,USD bn,,,Value Add VC segment breakdown (from NVIDIA releases),rounded to 0.1
+NVIDIA data center revenue,FQ2 FY24,2023-07-30,10.3,USD bn,,,Value Add VC segment breakdown (from NVIDIA releases),rounded to 0.1
+NVIDIA data center revenue,FQ3 FY24,2023-10-29,14.5,USD bn,,,Value Add VC segment breakdown (from NVIDIA releases),rounded to 0.1
+NVIDIA data center revenue,FQ4 FY24,2024-01-28,18.4,USD bn,,,Value Add VC segment breakdown (from NVIDIA releases),rounded to 0.1
+NVIDIA data center revenue,FQ1 FY25,2024-04-28,22.6,USD bn,,,Value Add VC segment breakdown (from NVIDIA releases),rounded to 0.1
+NVIDIA data center revenue,FQ2 FY25,2024-07-28,26.3,USD bn,,,Value Add VC segment breakdown (from NVIDIA releases),rounded to 0.1
+NVIDIA data center revenue,FQ3 FY25,2024-10-27,30.8,USD bn,,,Value Add VC segment breakdown (from NVIDIA releases),rounded to 0.1
+NVIDIA data center revenue,FQ4 FY25,2025-01-26,35.6,USD bn,,,Value Add VC segment breakdown (from NVIDIA releases),rounded to 0.1
+NVIDIA data center revenue,FQ1 FY26,2025-04-27,39.1,USD bn,,,Value Add VC segment breakdown (from NVIDIA releases),rounded to 0.1
+NVIDIA data center revenue,FQ2 FY26,2025-07-27,41.1,USD bn,56.0,5.0,NVIDIA press release 2025-08-27,
+NVIDIA data center revenue,FQ3 FY26,2025-10-26,51.2,USD bn,66.0,25.0,NVIDIA press release 2025-11-19,
+NVIDIA data center revenue,FQ4 FY26,2026-01-25,62.3,USD bn,75.0,22.0,NVIDIA press release 2026-02,
+NVIDIA data center revenue,FQ1 FY27,2026-04-26,75.2,USD bn,92.0,,NVIDIA 8-K 2026-05-20,
+NVIDIA data center revenue,FQ2 FY27,2026-07-26,89.0,USD bn,117.0,18.0,NVIDIA 8-K 2026-08-26,
+Worldwide PC shipments,2Q26,2026-06-30,68.2,million units,-4.9,,IDC 2026-07-08,
+Worldwide smartphone shipments,4Q22,2022-12-31,300.3,million units,-18.3,,IDC via Semiconductor Today 2023-01-26,
+Worldwide smartphone shipments,CY2022,2022-12-31,1210.0,million units,-11.3,,IDC via Semiconductor Today 2023-01-26,
+Worldwide smartphone shipments,2Q24,2024-06-30,292.2,million units,,,IDC 2Q25 release (prior-year comparison),
+Worldwide smartphone shipments,3Q24,2024-09-30,314.6,million units,,,IDC 3Q25 release (prior-year comparison),
+Worldwide smartphone shipments,2Q25,2025-06-30,295.2,million units,1.0,,IDC 2Q25 release,
+Worldwide smartphone shipments,3Q25,2025-09-30,322.7,million units,2.6,,IDC 3Q25 release,
+Worldwide smartphone shipments,2Q26,2026-06-30,276.3,million units,-7.4,,IDC final data 2026-08-28,
+Worldwide smartphone shipments forecast,CY2026,2026-12-31,,million units,-16.7,,IDC forecast 2026,just over 1 billion units

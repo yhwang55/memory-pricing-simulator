@@ -1,0 +1,73 @@
+quarter,supplier,dram_revenue_usd_bn,qoq_pct,market_share_pct,source,note
+2Q22,Industry total,25.58,,,"computed from TrendForce 3Q22 (18.19, -28.9% QoQ)",derived
+3Q22,Industry total,18.19,-28.9,,TrendForce 2022-11-16,
+3Q22,Samsung,7.4,-33.5,40.7,TrendForce 2022-11-16,share computed
+3Q22,SK hynix,5.24,-25.2,28.8,TrendForce 2022-11-16,share computed
+3Q22,Micron,4.81,,26.4,TrendForce 2022-11-16,share computed
+4Q22,Industry total,12.28,-32.5,,TrendForce 2023-03-02,
+4Q22,Samsung,5.54,-25.1,45.1,TrendForce 2023-03-02,share computed
+4Q22,SK hynix,3.4,-35.2,27.7,TrendForce 2023-03-02,share computed
+4Q22,Micron,2.83,-41.2,23.0,TrendForce 2023-03-02,share computed
+1Q23,Industry total,9.49,,,"computed from TrendForce 2Q23 (11.43, +20.4% QoQ)",derived
+2Q23,Industry total,11.43,20.4,,TrendForce 2023-08-24,
+2Q23,Samsung,4.53,8.6,39.6,TrendForce 2023-08-24,share computed
+2Q23,SK hynix,3.44,49.0,30.1,TrendForce 2023-08-24,QoQ stated as nearly 50%; share computed
+2Q23,Micron,2.95,15.7,25.8,TrendForce 2023-08-24,share computed
+3Q23,Industry total,13.48,18.0,,TrendForce 2023-12-04,
+3Q23,Samsung,5.25,15.9,38.9,TrendForce 2023-12-04,share computed
+3Q23,SK hynix,4.626,34.4,34.3,TrendForce 2023-12-04,share computed
+3Q23,Micron,3.075,4.2,22.8,TrendForce 2023-12-04,share computed
+4Q23,Industry total,17.46,29.6,,TrendForce 2024-03-05,
+4Q23,Samsung,7.95,,45.5,TrendForce 2024-03-05,share computed
+4Q23,SK hynix,5.56,,31.8,TrendForce 2024-03-05,share computed
+4Q23,Micron,3.35,,19.2,TrendForce 2024-03-05,share computed
+1Q24,Industry total,18.35,5.1,,TrendForce 2024-06-13,
+1Q24,Samsung,8.06,1.3,43.9,TrendForce 2024-06-13,revenue computed from share
+1Q24,SK hynix,5.71,,31.1,TrendForce 2024-06-13,revenue computed from share
+1Q24,Micron,3.95,17.8,21.5,TrendForce 2024-06-13,revenue computed from share
+2Q24,Industry total,22.9,24.8,,TrendForce 2024-08-15,
+2Q24,Samsung,9.82,22.0,42.9,TrendForce 2024-08-15,share computed
+2Q24,SK hynix,7.91,38.7,34.5,TrendForce 2024-08-15,share computed
+2Q24,Micron,4.5,14.1,19.7,TrendForce 2024-08-15,share computed
+3Q24,Industry total,26.02,13.6,,TrendForce 2024-11-26,
+3Q24,Samsung,10.7,9.0,41.1,TrendForce 2024-11-26,share computed
+3Q24,SK hynix,8.95,13.1,34.4,TrendForce 2024-11-26,share computed
+3Q24,Micron,5.78,28.3,22.2,TrendForce 2024-11-26,share computed
+4Q24,Industry total,28.6,9.9,,TrendForce 2025-02-27,total computed as 3Q24 x 1.099 (release says over $28B)
+4Q24,Samsung,11.25,,39.3,TrendForce 2025-02-27,share computed
+4Q24,SK hynix,10.46,16.9,36.6,TrendForce 2025-02-27,share computed
+4Q24,Micron,6.4,10.8,22.4,TrendForce 2025-02-27,share computed
+1Q25,Industry total,27.01,-5.5,,TrendForce 2025-06-03,
+1Q25,SK hynix,9.72,-7.1,36.0,TrendForce 2025-06-03,share computed
+1Q25,Samsung,9.1,-19.0,33.7,TrendForce 2025-06-03,share computed
+1Q25,Micron,6.58,2.7,24.4,TrendForce 2025-06-03,share computed
+2Q25,Industry total,31.63,17.1,,TrendForce 2025-09-02,
+2Q25,SK hynix,12.23,25.8,38.7,TrendForce 2025-09-02,
+2Q25,Samsung,10.35,13.7,32.7,TrendForce 2025-09-02,
+2Q25,Micron,6.95,5.7,22.0,TrendForce 2025-09-02,
+2Q25,Nanya,0.34,56.0,1.1,TrendForce 2025-09-02,share computed
+2Q25,Winbond,0.18,24.9,0.6,TrendForce 2025-09-02,share computed
+3Q25,Industry total,41.4,30.9,,TrendForce 2025-11-26,
+3Q25,SK hynix,13.75,12.4,33.2,TrendForce 2025-11-26,
+3Q25,Samsung,13.5,30.4,32.6,TrendForce 2025-11-26,
+3Q25,Micron,10.65,53.2,25.7,TrendForce 2025-11-26,
+3Q25,Nanya,0.627,84.0,1.5,TrendForce 2025-11-26,share computed
+3Q25,Winbond,0.222,21.4,0.5,TrendForce 2025-11-26,share computed
+4Q25,Industry total,53.58,29.4,,TrendForce 2026-02-26,
+4Q25,Samsung,19.3,43.0,36.0,TrendForce 2026-02-26,
+4Q25,SK hynix,17.22,25.2,32.1,TrendForce 2026-02-26,
+4Q25,Micron,11.98,12.4,22.4,TrendForce 2026-02-26,
+1Q26,Industry total,97.0,81.0,,TrendForce 2026-06-01,total is rounded in the release
+1Q26,Samsung,37.32,93.4,38.5,TrendForce 2026-06-01,
+1Q26,SK hynix,27.98,62.5,28.8,TrendForce 2026-06-01,
+1Q26,Micron,21.75,81.6,22.4,TrendForce 2026-06-01,
+1Q26,Nanya,1.55,60.0,1.6,TrendForce 2026-06-01,share computed
+1Q26,Winbond,0.568,91.4,0.6,TrendForce 2026-06-01,share computed
+1Q26,CXMT,7.37,,7.6,Sammy Fans citing TrendForce 2026-09-18,secondary source
+2Q26,Industry total,154.73,59.5,,TrendForce 2026-09-07,
+2Q26,Samsung,60.98,63.4,39.4,TrendForce 2026-09-07,
+2Q26,SK hynix,38.59,37.9,24.9,TrendForce 2026-09-07,
+2Q26,Micron,36.0,65.5,23.3,TrendForce 2026-09-07,
+2Q26,Nanya,2.612,68.3,1.7,TrendForce 2026-09-07,share computed
+2Q26,Winbond,0.998,75.8,0.6,TrendForce 2026-09-07,share computed
+2Q26,CXMT,14.7,,9.5,Sammy Fans citing TrendForce 2026-09-18,secondary source

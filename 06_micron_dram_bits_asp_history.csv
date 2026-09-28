@@ -1,0 +1,20 @@
+fiscal_quarter,period_end,dram_revenue_usd_bn,dram_rev_qoq_pct,bit_qoq_text,bit_qoq_mid_pct,asp_qoq_text,asp_qoq_mid_pct,source,calendar_quarter_approx,check_implied_rev_qoq_pct
+FQ1-22,2021-12-02,5.6,-8,declined mid-single-digit %,-5,declined lower single-digit %,-2,Micron FQ1-22 call (MarketBeat transcript),2021Q4,-7.0
+FQ2-22,2022-03-03,5.7,2,increased high single-digit %,8,declined mid single-digit %,-5,Micron FQ2-22 call (MarketBeat transcript),2022Q1,3.0
+FQ3-22,2022-06-02,6.3,10,increased slightly over 10%,11,ASPs declined slightly,-1,Micron FQ3-22 call (MarketBeat transcript),2022Q2,10.0
+FQ4-22,2022-09-01,4.8,-23,decreased roughly 10%,-10,declined low-teens %,-12,Micron FQ4-22 call (MarketBeat transcript),2022Q3,-21.0
+FQ1-23,2022-12-01,2.8,-41,decreased mid-20% range,-25,declined low-20% range,-22,Micron FQ1-23 call (MarketBeat transcript),2022Q4,-42.0
+FQ2-23,2023-03-02,2.7,-4,increased mid-teens %,15,declined approximately 20%,-20,Micron FQ2-23 call (Yahoo transcript),2023Q1,-8.0
+FQ3-23,2023-06-01,2.7,-2,increased in the 10% range,10,declined approximately 10%,-10,Micron FQ3-23 prepared remarks,2023Q2,-1.0
+FQ4-23,2023-08-31,2.8,3,increased mid-teens %,15,declined high single-digit %,-8,Micron FQ4-23 call (MarketBeat),2023Q3,6.0
+FQ1-24,2023-11-30,3.4,24,increased low-20s %,22,increased low single-digit %,2,Micron FQ1-24 call (Yahoo transcript),2023Q4,24.0
+FQ2-24,2024-02-29,4.2,21,increased low single-digit %,2,increased high teens %,18,Micron FQ2-24 call (Yahoo transcript),2024Q1,20.0
+FQ3-24,2024-05-30,4.7,13,declined mid-single-digit %,-5,increased approximately 20%,20,Micron FQ3-24 prepared remarks,2024Q2,14.0
+FQ4-24,2024-08-29,5.3,14,flattish,0,increased mid-teens %,15,Micron FQ4-24 call (Motley Fool transcript),2024Q3,15.0
+FQ1-25,2024-11-28,6.4,20,increased low double-digit %,11,increased high single-digit %,8,Micron FQ1-25 call (Motley Fool transcript),2024Q4,20.0
+FQ2-25,2025-02-27,6.1,-4,decreased high single-digit %,-8,increased mid-single-digit %,5,Micron FQ2-25 call (Motley Fool transcript),2025Q1,-3.0
+FQ3-25,2025-05-29,7.1,15,increased over 20%,20,decreased low single-digit %,-2,Micron FQ3-25 call (Motley Fool transcript),2025Q2,18.0
+FQ4-25,2025-08-28,9.0,27,increased low-teens %,12,increased low-double-digit %,11,Micron FQ4-25 prepared remarks,2025Q3,24.0
+FQ1-26,2025-11-27,10.8,20,up slightly,1,increased approximately 20%,20,Micron FQ1-26 prepared remarks,2025Q4,21.0
+FQ2-26,2026-02-26,18.8,74,increased mid-single-digit %,5,increased mid-60s %,65,Micron FQ2-26 prepared remarks,2026Q1,73.0
+FQ3-26,2026-05-28,31.3,67,increased low-single-digit %,2,increased low-60s %,62,Micron FQ3-26 prepared remarks,2026Q2,65.0

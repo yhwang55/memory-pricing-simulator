@@ -1,0 +1,9 @@
+key,value,unit,as_of,confidence,source,note
+hbm_wafer_penalty_vs_ddr5,3.0,x (wafer area per bit),2026-08-23,medium,Micron at Hot Chips 2026 (Tom's Hardware),widening each generation; use 3-4 in sensitivity
+hbm_share_of_dram_wafers_2026,22,%,2026-06-02,medium,TrendForce 2026-06-02,
+hbm_share_of_dram_bits_2026,9,%,2026-06-02,medium,TrendForce 2026-06-02,"22% wafers / 9% bits implies ~2.9x penalty, consistent with row 1"
+hbm_share_of_dram_wafers_2027,30,%,2026-06-02,low,TrendForce 2026-06-02,projection
+hbm_share_of_dram_bits_2027,13,%,2026-06-02,low,TrendForce 2026-06-02,projection
+hbm3e_price_premium_vs_server_ddr5_2025,4.5,x (per bit),2025-12-18,medium,TrendForce 2025-12-18,stated as 4-5x
+hbm3e_price_premium_vs_server_ddr5_end2026,1.5,x (per bit),2025-12-18,low,TrendForce 2025-12-18,stated as 1-2x; conventional DRAM prices caught up
+hbm_pricing_mechanism,annual contracts,,2026-06-02,high,TrendForce 2026-06-02,HBM price cannot react within the year; DDR5 64GB RDIMM per-wafer revenue passed HBM in 1Q26

@@ -1,0 +1,22 @@
+key,value,unit,period,source,confidence,note
+micron_gross_margin_fq1_26,56.8,%,FQ1-26,Micron FQ1-26 remarks,high,GAAP 10-Q shows 56%
+micron_gross_margin_fq2_26,74,%,FQ2-26,Micron 10-Q FQ2-26,high,guided 68%; beat
+micron_gross_margin_fq3_26,84.9,% non-GAAP,FQ3-26,Micron FQ3-26 remarks,high,GAAP 84.6%
+micron_gross_margin_fq4_26_guide,86,% guidance,FQ4-26,Micron FQ3-26 remarks,medium,results due 2026-09-30
+micron_dram_cost_per_bit_fy25,-2,% YoY (low single-digit decline),FY25,Micron FQ4-25 remarks,medium,
+micron_dram_cost_per_bit_outlook,rising,,FY26-27,Micron FQ3-26 remarks,high,mix shift to complex products + greenfield ramps
+micron_sca_count,16,agreements,2026,Micron FQ3-26 remarks,high,
+micron_sca_share_dram_volume,20,% of DRAM volume,2026,Micron FQ3-26 remarks,high,NAND ~33%
+micron_sca_term,5,years,CY2026-2030,Micron FQ3-26 remarks,high,auto customers 3 years
+micron_sca_structure,take-or-pay; floor and ceiling (ceiling = CQ2-26 market price),,2026,Micron FQ3-26 remarks,high,
+micron_sca_min_revenue,100,"USD bn (14 of 16 SCAs, at floor price)",2026-2030,Micron FQ3-26 remarks,high,plus ~$22B deposits
+skhynix_lta_count,10,customers (more than),2026,The Elec / SK hynix 2Q26 call,high,
+skhynix_lta_term,5,years,2026,The Elec,medium,Google deal extendable +2 years (TrendForce news)
+skhynix_lta_share_volume,,not disclosed,2026,The Elec,,company says 'appropriate level'
+samsung_lta_term,3,years (minimum),2026,TrendForce news 2026-04-09,medium,
+lta_upfront_payment,20,% of contract value,2026,TrendForce news 2026-04-09,low,stated as 10-30%
+dram_capex_industry_2025,53.7,USD bn,2025,TrendForce 2025-11-13,medium,
+dram_capex_industry_2026,61.3,USD bn,2026,TrendForce 2025-11-13,medium,+14% YoY; forecast made Nov 2025
+dram_capex_samsung_2026,20.0,USD bn,2026,TrendForce 2025-11-13,medium,
+dram_capex_skhynix_2026,20.5,USD bn,2026,TrendForce 2025-11-13,low,SK hynix later raised 2026 capex to high-40 trillion KRW (all products)
+dram_capex_micron_2026,13.5,USD bn,2026,TrendForce 2025-11-13,medium,

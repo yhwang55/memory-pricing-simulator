@@ -1,0 +1,31 @@
+key,value,unit,period,source,confidence,cross_check
+share_bits_server_2023,37.6,% of DRAM bits,2023,TrendForce 2023-02-20,medium,first year server passed mobile
+share_bits_mobile_2023,36.8,% of DRAM bits,2023,TrendForce 2023-02-20,medium,
+share_bits_server_2026,48,% of DRAM bits,2026,Counterpoint via ZDNet Korea 2026-06-29,medium,server + HBM = 57%
+share_bits_hbm_2026,9,% of DRAM bits,2026,Counterpoint via ZDNet Korea 2026-06-29,high,matches TrendForce 9% (2026-06-02)
+share_bits_mobile_2026,22,% of DRAM bits,2026,Counterpoint via ZDNet Korea 2026-06-29,medium,
+share_bits_pc_2026,10,% of DRAM bits,2026,Counterpoint via ZDNet Korea 2026-06-29,medium,
+share_bits_other_2026,12,% of DRAM bits,2026,Counterpoint via ZDNet Korea 2026-06-29,medium,shares sum to 101% due to rounding
+share_revenue_datacenter_2026,65,% of DRAM revenue,2026,Counterpoint via ZDNet Korea 2026-06-29,medium,
+content_smartphone_avg_gb_2025,8.4,GB per unit,2025,Counterpoint (record high),high,"Omdia 1Q26 8.3GB, consistent"
+content_smartphone_avg_gb_1q26,8.3,GB per unit,1Q26,Omdia via Technobaboy 2026-07-14,medium,+6.1% YoY
+content_growth_server_2024,17.3,% YoY per unit,2024,TrendForce 2024-02-05,medium,
+content_growth_smartphone_2024,14.1,% YoY per unit,2024,TrendForce 2024-02-05,medium,
+content_growth_notebook_2024,12.4,% YoY per unit,2024,TrendForce 2024-02-05,medium,
+content_growth_server_2026,25,% YoY per unit,2026,Yole via Electronic Times 2026-01-27,medium,server units +3%
+content_growth_smartphone_2026,16,% YoY per unit,2026,Yole via Electronic Times 2026-01-27,low,Omdia shows +6.1% in 1Q26; price spike likely cut specs
+content_growth_pc_2026,15,% YoY per unit,2026,Yole via Electronic Times 2026-01-27,low,forecast made before 2026 price surge
+content_growth_auto_2026,36,% YoY per unit,2026,Yole via Electronic Times 2026-01-27,low,
+bit_demand_growth_2025,21,% YoY,2025,Micron FQ1-26 remarks ('low 20% range'),high,
+bit_demand_growth_2026,23,% YoY,2026,Yole via Electronic Times 2026-01-27,high,Micron: low- to mid-20s; SK hynix: mid-20%. Three sources agree
+bit_supply_growth_2026,20,% YoY,2026,Micron FQ1-26 remarks ('around 20%'),medium,
+sufficiency_ratio_2026,-1.5,% (supply vs demand),2026,TrendForce 2026-07-30,medium,stated as -1% to -2%; gap widens in 2027
+dram_capacity_total_2026,40,EB,2026,TrendForce news 2025-12-26,low,
+dram_capacity_growth_annual,12.5,% YoY,2026,TrendForce news 2025-12-26,low,stated as 10-15%
+ai_share_of_dram_wafers_2026,20,% of wafers,2026,TrendForce news 2025-12-26,medium,HBM alone 22% per TrendForce 2026-06-02; definitions differ
+wafer_multiplier_hbm_per_gb,4,x standard DRAM,2026,TrendForce news 2025-12-26,medium,Micron says ~3x; implied from 22%/9% is ~2.9x. Use 3-4 range
+wafer_multiplier_gddr7_per_gb,1.7,x standard DRAM,2026,TrendForce news 2025-12-26,medium,
+new_capacity_timing,"2H27 ramp, 2028 output",,2026,TrendForce 2026-07-30,medium,
+smartphone_production_2026,-2,% YoY,2026,TrendForce 2025-11-17,low,IDC later forecast -16.7%; use IDC
+notebook_production_2026,-2.4,% YoY,2026,TrendForce 2025-11-17,low,forecast made before 2026 price surge
+dram_share_of_smartphone_bom,12.5,%,2025,TrendForce 2025-11-17,medium,stated as 10-15%; IDC says 65%+ at low end in 2026
