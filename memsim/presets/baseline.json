@@ -1,0 +1,7 @@
+{
+  "preset_id": "baseline",
+  "title": "기준 시나리오",
+  "question": "충격 없음. 다른 프리셋의 비교 기준",
+  "status": "draft",
+  "scenario": {"schema_version": "3.0", "scenario_id": "baseline", "name": "기준 시나리오", "mode": "optimize"}
+}

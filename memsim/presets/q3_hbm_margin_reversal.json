@@ -1,0 +1,10 @@
+{
+  "preset_id": "q3_hbm_margin_reversal",
+  "title": "Q3. HBM 마진 역전 (초안)",
+  "question": "HBM 계약가가 DDR5 대비 떨어지면 배분이 DDR5로 얼마나 빨리 옮겨가고, 전환 속도가 손실을 얼마나 키우나? (Q3의 '전환' 정의는 W1 결정 사항 ④)",
+  "status": "draft",
+  "scenario": {
+    "schema_version": "3.0", "scenario_id": "q3_hbm_margin_reversal", "name": "HBM 계약가 -40%", "mode": "optimize",
+    "shocks": [{"type": "hbm_contract_price", "start_q": 2, "shape": "ramp", "duration_q": 4, "change_pct": -40}]
+  }
+}

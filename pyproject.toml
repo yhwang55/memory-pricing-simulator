@@ -1,0 +1,9 @@
+[project]
+name = "memsim"
+version = "0.1.0"
+description = "메모리 가격·생산믹스 의사결정 시뮬레이터"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
