@@ -1,0 +1,14 @@
+{
+  "preset_id": "q4_demand_down_lta",
+  "title": "Q4. 수요 하락 시 장기계약 방어",
+  "question": "일반 서버·PC 수요가 20% 줄 때 DDR5 장기계약 최소 물량 20%가 누적 이익을 얼마나 지키나? (0%와 비교)",
+  "status": "draft",
+  "scenario": {
+    "schema_version": "3.0", "scenario_id": "q4_demand_down_lta", "name": "수요 -20% + LTA 20%", "mode": "optimize",
+    "shocks": [
+      {"type": "demand", "segment": "general_server", "start_q": 2, "shape": "step", "change_pct": -20},
+      {"type": "demand", "segment": "pc", "start_q": 2, "shape": "step", "change_pct": -20}
+    ],
+    "contracts": {"lta_min_share": {"DDR5": 0.2}}
+  }
+}
