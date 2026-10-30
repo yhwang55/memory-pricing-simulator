@@ -1,0 +1,10 @@
+{
+  "preset_id": "q1_ai_server_up_20",
+  "title": "Q1. AI 서버 수요 +20%",
+  "question": "3분기부터 AI 서버 수요가 20% 늘면 HBM 웨이퍼를 얼마나 늘려야 하고, DDR5 가격은 어떻게 되나?",
+  "status": "draft",
+  "scenario": {
+    "schema_version": "3.0", "scenario_id": "q1_ai_server_up_20", "name": "AI 서버 수요 +20%", "mode": "optimize",
+    "shocks": [{"type": "demand", "segment": "ai_server", "start_q": 3, "shape": "step", "change_pct": 20}]
+  }
+}

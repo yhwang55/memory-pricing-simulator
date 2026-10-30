@@ -1,0 +1,10 @@
+{
+  "preset_id": "q2_lpddr_entrant_30",
+  "title": "Q2. 신규 진입사 LPDDR 캐파 +30%",
+  "question": "5분기부터 경쟁사 LPDDR 공급이 30% 늘면 LPDDR 비중을 줄이고 어디로 옮겨야 하나?",
+  "status": "draft",
+  "scenario": {
+    "schema_version": "3.0", "scenario_id": "q2_lpddr_entrant_30", "name": "LPDDR 경쟁 캐파 +30%", "mode": "optimize",
+    "shocks": [{"type": "competitor_capacity", "product": "LPDDR", "start_q": 5, "shape": "ramp", "duration_q": 4, "change_pct": 30}]
+  }
+}
